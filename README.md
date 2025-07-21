@@ -21,5 +21,5 @@ This SQL project is a simulation of an inventory management system. It includes 
 ## 📁 Files
 
 - `schema.sql` – database table setup
-- `insert_data.sql` – coming soon
-- `queries.sql` – coming soon
+- `insert_data.sql` – sample mock data
+- `queries.sql` – SQL queries for inventory analysis
